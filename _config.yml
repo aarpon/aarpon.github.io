@@ -27,6 +27,8 @@ url: "https://aarpon.github.io" # the base hostname & protocol for your site, e.
 twitter_username: AaronPonti
 github_username:  aarpon
 
+markdown: GFM
+
 # Build settings
 theme: minima
 plugins:
