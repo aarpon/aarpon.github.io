@@ -5,5 +5,5 @@
 layout: home
 ---
 
-Welcome. Stay stuned for more.
+Welcome, friend. Some initial info [about](about) me. Stay stuned for more.
 
